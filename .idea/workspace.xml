@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ed350d0-bd6c-4d2f-8f60-c633b938a27f" name="Default Changelist" comment="" />
+    <list default="true" id="6ed350d0-bd6c-4d2f-8f60-c633b938a27f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/main.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ngSjf75cBItDgrboVHddEsktUV" />
   <component name="ProjectViewState">
@@ -15,6 +23,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -44,22 +53,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="134" key="GridCell.Tab.0.bottom" timestamp="1611849754215">
+    <state width="1491" height="210" key="GridCell.Tab.0.bottom" timestamp="1611851207326">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="134" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611849754215" />
-    <state width="1493" height="134" key="GridCell.Tab.0.center" timestamp="1611849754214">
+    <state width="1491" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611851207326" />
+    <state width="1491" height="210" key="GridCell.Tab.0.center" timestamp="1611851207325">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="134" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611849754214" />
-    <state width="1493" height="134" key="GridCell.Tab.0.left" timestamp="1611849754214">
+    <state width="1491" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611851207325" />
+    <state width="1491" height="210" key="GridCell.Tab.0.left" timestamp="1611851207324">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="134" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611849754214" />
-    <state width="1493" height="134" key="GridCell.Tab.0.right" timestamp="1611849754214">
+    <state width="1491" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611851207324" />
+    <state width="1491" height="210" key="GridCell.Tab.0.right" timestamp="1611851207326">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="134" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611849754214" />
+    <state width="1491" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611851207326" />
     <state x="465" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1611817374000">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

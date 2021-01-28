@@ -116,8 +116,6 @@ main() {
           }else{
             print("No available places");
           }
-        }else{
-          print("There no trip with that id");
         }
       }
     }
@@ -126,11 +124,11 @@ main() {
 
     while (z) {
       print('''
------------------------------------------------
+--------------------------------------------------------
 1- Add Trip     2-Edit Trip               3-Delete Trip
 4- view Trips   5-search with the price   6- Reserve 
 7- Exit
------------------------------------------------
+--------------------------------------------------------
 ''');
       int input = int.parse(stdin.readLineSync());
 
